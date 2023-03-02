@@ -4,18 +4,13 @@ int parking(){
 	
 	int h , g = 0 , f , w;
 	
-	printf("Cases");
+	printf("Cases: ");
 	
 	scanf("%d", &h);
 	
-	printf("\nint: ");
-	scanf("%d", &f);
+	while(g < h){
 		
-	for(w; w < f; w++){
-		w = f;
-		printf("%d",w);
 	}
-	
 	
 }
 
